@@ -3,9 +3,9 @@ html {
 }
 
 body {
-    background: #444;
+	background-image: url(images/bg.png);
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
-    color: #545454;
+    color: #fff;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
     margin: 0 auto;
@@ -41,7 +41,7 @@ h3 {
 }
 
 #content {
-    background: white;
+	background: rgba(20, 20, 20, .90);
     padding: 10px 50px 30px 50px;
 }
 
